@@ -1,7 +1,7 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <!DOCTYPE html>
 <html> <h1>
-Welcome to our Devops Training !!
+Welcome to our Ranjith Devops Training !!
 </h1>
         <body>
                 <form method="post" action="CalculatorController">
