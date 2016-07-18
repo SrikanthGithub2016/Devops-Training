@@ -1,6 +1,8 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <!DOCTYPE html>
-<html>
+<html> <h1>
+Welcome !!
+</h1>
         <body>
                 <form method="post" action="CalculatorController">
                         Number 1 : <input type="text" name="no1"> <br>
